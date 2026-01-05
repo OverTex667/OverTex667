@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=overtex667&label=Profile%20views&color=0e75b6&style=flat" alt="overtex667" /> </p>
 
-- 🌱 I’m currently learning **python, luau, html/css**
+- 🌱 I’m currently learning **c++, python, luau, sql, html/css**
 
-- 👨‍💻 All of my projects are available at [https://overtex667.github.io/Portfolio/](https://overtex667.github.io/Portfolio/)
+- 👨‍💻 Portfolio comingback soon
 
 - 📫 discord : **overtex3872**
 
